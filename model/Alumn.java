@@ -3,7 +3,9 @@ public class Alumn{
 
 	 //HOLA
 	}
- public void execute(){
- 	//CODE HERE...
- }
+
+	public void doSomething(){
+		//CODE HERE...
+	}
+
 }
